@@ -1,7 +1,7 @@
 body{
     width: 100%;
 
-    background-image: url(./images/pattern-background-desktop.svg);
+    background-image: url(./images/pattern-backgrounddesktop.svg);
     background-repeat: no-repeat;
     background-color: #E0E8FF;
     font-family: 'Red Hat Display', sans-serif;
@@ -126,7 +126,7 @@ h4{
   }
 @media (min-width: 375px) {
       body{
-          background: url(./images/pattern-background-desktop.svg) no-repeat center/cover;
+          background: url(./images/pattern-backgrounddesktop.svg) no-repeat center/cover;
           height: 50vh;
           background-color: #E0E8FF;
       }
