@@ -53,7 +53,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-As tis is my first frountend desine,It felt little nerves, But I tryed my best to get closer to solution.
+As it's is my first frountend desine,It felt little nerves, But I tryed my best to get closer to solution.
 I improved my understanding ability how HTML and CSS work in real time.
 
 
