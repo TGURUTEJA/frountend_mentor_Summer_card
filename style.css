@@ -1,0 +1,122 @@
+body{
+    width: 100%;
+
+    background-image: url(images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-color: #E0E8FF;
+    font-family: 'Red Hat Display', sans-serif;
+}
+.back{
+   position: relative;
+   width: 340px;
+   height: 550px;
+   background-color: seashell;
+   margin: 30px auto ;
+   border-radius: 20px;
+   text-align: center;
+   font-weight: lighter;
+}
+.hero{
+    width: 340px;
+    border-radius: 20px 20px 0 0;
+    margin-bottom: 0px;
+
+}
+h1{
+    margin-bottom: 10px ;
+    color: #253358;
+    margin-top: 30px;
+    font-size: 1.7em;
+}
+h4{
+    margin:0;
+}
+.content{
+      /*width: 300px;*/
+      margin: 10px auto;
+      font-size:15px;
+      color: hsl(224, 23%, 55%);
+      font-weight: 400;
+
+      
+}
+.in_block{
+    background-color:#F8F9FE ;
+    width: 290px;
+    height: 70px;
+    border-radius: 10px;
+    margin: 10px auto 10px auto;
+    text-align: left;
+
+}
+.icon{
+    float: left;
+    margin: 10px 15px;
+}
+.texr{
+    color:#1C2546 ;
+    padding: 6px 0 0 0;
+    margin: 0;
+    font-size: 15px;
+}
+.tex{
+    margin: 0;
+    font-size: 0.85em;
+    color: #7D8296 ;
+}
+.texw{
+    padding: 10px;
+    text-align: left;
+}
+.ch{
+    text-decoration: none;
+    position: relative;
+    text-align: right;
+    color: #7D73D3 ;
+    font-size: 0.85em;
+    bottom : 45px;
+    right: 10px;
+
+}
+.btn { 
+    top: 20px;
+    position: relative;
+    top:25px;
+    background: #382AE1;
+    background-image: -webkit-linear-gradient(top, #382AE1, #3828E0);
+    background-image: -moz-linear-gradient(top, #382AE1, #3828E0);
+    background-image: -ms-linear-gradient(top, #382AE1, #3828E0);
+    background-image: -o-linear-gradient(top, #382AE1, #3828E0);
+    background-image: linear-gradient(to bottom, #382AE1, #3828E0);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 16px 11px #E7E5FB;
+    -moz-box-shadow: 0px 16px 11px #E7E5FB;
+    box-shadow: 0px 16px 11px #E7E5FB;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 11px 70px 11px 70px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .cen{
+      font-family: serif;
+      text-decoration: none;
+      position: absolute;
+      bottom: 30px;
+      left: 122px;
+      color: #02071B;
+      text-decoration: solid;
+
+  }
