@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./frount_end_soution1.png)
+![](./frount_end_solution1.png)
 
 
 .
